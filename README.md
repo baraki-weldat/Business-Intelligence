@@ -1,5 +1,5 @@
 # Business Intelligence
- Airline On-time Performance Visualization Using Tableau, Seminars on Business Intelligence, Analytics technology, data-driven culture
+ Airline On-time Performance Visualization Using Tableau, Seminars on Business Intelligence, Analytics technology, data-driven culture. 
 ### Project on ["AIRLINE ON-TIME PERFORNAMCE VISUALIZATION USING TABLEAU"](<BI Report Final.pdf>)
 - Nowadays, Business Intelligence Technologies (Chaudhuri, Dayal & Narasayya, 2011) are widely deployed and used in businesses and industries to be able to analyze large volumes of data and extract insights to support knowledge workers for their decision-making capabilities. Particularly, the airline business sector (Fatima, 2022) uses different Business Intelligence technologies to analyze and monitor climate change, control and analyze flights, as well as forecasting weather conditions to detect risks. Generally, this project deals with data collection and data preparation using Python (i.e. Pandas) for the Tableau BI Tool, and finally the required parameters and features are analyzed, interpreted and reported with the visuals generated.
 - The datasets for 1989 and 1999 are available in [US Domestic Flights Datasets](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7)
